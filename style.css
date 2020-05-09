@@ -1,0 +1,34 @@
+body{
+    font-size: 50px;
+    font-family: Inconsolata;
+    text-align: center;
+}
+
+p {
+    height: 1px;
+    font-size: 1px;
+}
+
+.fixWidth {
+    font-stretch: 100px;
+}
+
+.coord {
+    position: relative;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.shown {
+
+}
+
+span {
+    font-size 100px;
+}
+
+.span2 {
+    font-size: 25px;
+}
